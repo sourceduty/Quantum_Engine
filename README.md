@@ -73,3 +73,5 @@ In the realm of space exploration, particularly intergalactic propulsion, a quan
 [Math Engines](https://github.com/sourceduty/Math_Engines)
 <br>
 [Quantum Algorithm Engine](https://github.com/sourceduty/Quantum_Algorithm_Engine)
+<br>
+[Galactic Science](https://github.com/sourceduty/Galactic_Science)
