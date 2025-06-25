@@ -66,6 +66,12 @@ In the realm of space exploration, particularly intergalactic propulsion, a quan
 
 #
 
+![Rockets](https://github.com/user-attachments/assets/a44c4da5-00bc-4964-9d98-ac20445cbfe9)
+
+Quantum mechanical powered engines, while theoretically capable of harnessing exotic quantum phenomena like tunneling, superposition, and zero-point energy, currently do not offer a pathway to light speed propulsion as constrained by the fundamental laws of physics, particularly Einstein’s theory of relativity. According to this theory, as an object approaches the speed of light, its mass effectively becomes infinite, requiring infinite energy to continue accelerating—an insurmountable barrier for any engine operating within known physics. However, quantum engines might revolutionize propulsion by enabling extraordinarily efficient energy conversion at the atomic or subatomic level, potentially allowing spacecraft to achieve a significant fraction of light speed far more efficiently than chemical or even ion-based systems. Concepts such as the Alcubierre warp drive—which propose bending space-time rather than accelerating through it—have been inspired by quantum field theories, yet these remain speculative and demand negative energy densities or exotic matter not yet proven to exist. In essence, while quantum mechanical engines might drastically enhance propulsion efficiency and reduce fuel mass, reaching or exceeding light speed would require breakthroughs not only in engineering but in our fundamental understanding of physics itself.
+
+#
+
 [Theoretical Engine](https://github.com/sourceduty/Theoretical_Engine)
 <br>
 [Self-Excited Motor](https://github.com/sourceduty/Self-Excited_Motor)
