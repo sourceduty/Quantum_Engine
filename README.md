@@ -83,3 +83,5 @@ Quantum mechanical powered engines, while theoretically capable of harnessing ex
 [Galactic Science](https://github.com/sourceduty/Galactic_Science)
 <br>
 [Quantum](https://github.com/sourceduty/Quantum)
+<br>
+[Sourceduty DevOps](https://github.com/sourceduty/Sourceduty_DevOps)
