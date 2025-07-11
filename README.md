@@ -91,3 +91,5 @@ Sourceduty acknowledges the transformative potential of quantum mechanical power
 [Quantum](https://github.com/sourceduty/Quantum)
 <br>
 [Sourceduty DevOps](https://github.com/sourceduty/Sourceduty_DevOps)
+<br>
+[Quantum Sim Engine](https://chatgpt.com/g/g-6870b992574c8191b0d0fb69df0ff03b-quantum-sim-engine)
